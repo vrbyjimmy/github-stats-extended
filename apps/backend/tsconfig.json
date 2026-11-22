@@ -11,6 +11,7 @@
     "moduleResolution": "nodenext",
     // Allow TS files to import the remaining JS files
     "allowJs": true,
-    "erasableSyntaxOnly": true
+    "erasableSyntaxOnly": true,
+    "types": ["node"]
   }
 }
