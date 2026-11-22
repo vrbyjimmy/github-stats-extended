@@ -27,6 +27,11 @@
     "@stats-organization/github-readme-stats-core": "workspace:^",
     "axios": "catalog:default",
     "express": "5.3.0",
-    "pg": "^8.23.1"
+    "pg": "^8.23.1",
+    "@types/node": "^24.0.0",
+    "jsdom": "catalog:default",
+    "nock": "catalog:default",
+    "supertest": "7.3.1",
+    "vitest": "catalog:default"
   }
 }
